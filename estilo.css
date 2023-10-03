@@ -1,0 +1,15 @@
+header {
+    background-color: #333;
+    color: brown;
+    padding: 20px;
+
+}
+body{background-image: url('https://img.freepik.com/fotos-premium/fondo-suave-acuarela-azul-claro_3590-93.jpg');
+
+}
+
+*{
+    font-size:  28px;
+}
+p {color: navy;
+}
