@@ -1,7 +1,7 @@
 header {
     background-color: #333;
-    color: brown;
-    padding: 20px;
+    color: rgb(250, 5, 5);
+    padding: 10px;
 
 }
 body{background-image: url('https://img.freepik.com/fotos-premium/fondo-suave-acuarela-azul-claro_3590-93.jpg');
@@ -10,6 +10,27 @@ body{background-image: url('https://img.freepik.com/fotos-premium/fondo-suave-ac
 
 *{
     font-size:  28px;
+    text-align: center;
 }
-p {color: navy;
+p {color: rgb(42, 6, 248);
+}
+nav{
+    background-color: rgb(249, 249, 250);
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+color: blue;
+}
+ul{
+    list-style: none;
+}
+li{
+    font-size: 24px;
+    margin: 100px;
+    display: inline;
+    text-align: justify;
+}
+footer{
+    background-color: peachpuff;
 }
